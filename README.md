@@ -18,32 +18,15 @@
 
 ## ⚙️ Tech Stack & Tools
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+| Category              | Technologies & Tools                                                                 |
+|-----------------------|---------------------------------------------------------------------------------------|
+| 💻 Programming & Data | Python, SQL, Pandas, NumPy, Seaborn, Matplotlib                                       |
+| 🤖 ML & Deep Learning | Scikit-learn, TensorFlow, PyTorch, HuggingFace                                        |
+| 🧪 MLOps & DevOps     | Docker 🐳, DVC, MLflow, GitHub Actions, Prometheus, Grafana                           |
+| 📊 BI & Dashboarding  | Power BI, Streamlit                                                                   |
+| 🌐 Web & APIs         | Flask, FastAPI                                                                        |
+| 🧰 Dev Tools          | Git, VS Code, Jupyter, Conda                                                          |
 
-<!-- Tech stack (left) -->
-<div align="left" style="flex: 1; min-width: 300px;">
-
-### 💻 Programming & Data
-- Python, SQL  
-- Pandas, NumPy, Seaborn, Matplotlib  
-
-### 🤖 ML & Deep Learning
-- Scikit-learn, TensorFlow, PyTorch, HuggingFace  
-
-### 🧪 MLOps & DevOps
-- Docker 🐳, DVC, MLflow, GitHub Actions  
-- Prometheus, Grafana  
-
-### 📊 BI & Dashboarding
-- Power BI, Streamlit  
-
-### 🌐 Web & APIs
-- Flask, FastAPI  
-
-### 🧰 Dev Tools
-- Git, VS Code, Jupyter, Conda  
-
-</div>
 
 <!-- Deep Learning GIF (right) -->
 <div align="right" style="flex: 1; min-width: 300px;">
