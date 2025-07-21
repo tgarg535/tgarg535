@@ -18,38 +18,40 @@
 
 ## ⚙️ Tech Stack & Tools
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top">
+<div align="center" style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
 
-  ### 💻 Programming & Data
-  - Python, SQL
-  - Pandas, NumPy, Seaborn, Matplotlib
+<!-- Tech stack (left) -->
+<div align="left" style="flex: 1; min-width: 300px;">
 
-  ### 🤖 ML & Deep Learning
-  - Scikit-learn, TensorFlow, PyTorch, HuggingFace
+### 💻 Programming & Data
+- Python, SQL  
+- Pandas, NumPy, Seaborn, Matplotlib  
 
-  ### 🧪 MLOps & DevOps
-  - Docker 🐳, DVC, MLflow, GitHub Actions
-  - Prometheus, Grafana
+### 🤖 ML & Deep Learning
+- Scikit-learn, TensorFlow, PyTorch, HuggingFace  
 
-  ### 📊 BI & Dashboarding
-  - Power BI, Streamlit
+### 🧪 MLOps & DevOps
+- Docker 🐳, DVC, MLflow, GitHub Actions  
+- Prometheus, Grafana  
 
-  ### 🌐 Web & APIs
-  - Flask, FastAPI
+### 📊 BI & Dashboarding
+- Power BI, Streamlit  
 
-  ### 🧰 Dev Tools
-  - Git, VS Code, Jupyter, Conda
+### 🌐 Web & APIs
+- Flask, FastAPI  
 
-      </td>
-      <td valign="top">
-        <img src="https://media.giphy.com/media/2t9sDPrlvFpdK/giphy.gif" width="300" alt="Deep Learning Animation" />
-      </td>
-    </tr>
-  </table>
+### 🧰 Dev Tools
+- Git, VS Code, Jupyter, Conda  
+
 </div>
+
+<!-- Deep Learning GIF (right) -->
+<div align="right" style="flex: 1; min-width: 300px;">
+  <img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" alt="Deep Learning GIF" width="100%" />
+</div>
+
+</div>
+
 
 ---
 
