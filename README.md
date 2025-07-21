@@ -10,22 +10,46 @@
 ## 🧠 About Me
 
 - 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
-- 🧪 Exploring core areas: **Python, Statistics, Probability, Machine Learning, Deep Learning, NLP, Generative AI**
-- ⚙️ Passionate about **MLOps** and building end-to-end ML pipelines using tools like **Docker, DVC, GitHub Actions**
-- 🚀 Love combining tech with creativity — from training models to deploying them in real-world scenarios
+- 🧪 Exploring: **Python**, **Statistics**, **Probability**, **Machine Learning**, **Deep Learning**, **NLP**, **Generative AI**
+- ⚙️ Focused on building **MLOps pipelines** using tools like **Docker, DVC, MLflow, GitHub Actions**
+- 💡 Passionate about transforming ideas into deployable solutions with **automation, APIs, and containers**
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack & Tools
 
-| Category        | Tools & Technologies |
-|----------------|----------------------|
-| 👨‍💻 Languages    | Python, SQL, Markdown |
-| 📊 Data Science | Pandas, NumPy, Matplotlib, Seaborn |
-| 🤖 ML/DL        | Scikit-learn, TensorFlow, PyTorch, HuggingFace |
-| 🔧 MLOps        | Docker, DVC, MLflow, GitHub Actions |
-| 🌐 Web/API      | Flask, FastAPI, Streamlit |
-| 📦 Dev Tools    | Git, GitHub, VS Code, Jupyter Notebook |
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top">
+
+  ### 💻 Programming & Data
+  - Python, SQL
+  - Pandas, NumPy, Seaborn, Matplotlib
+
+  ### 🤖 ML & Deep Learning
+  - Scikit-learn, TensorFlow, PyTorch, HuggingFace
+
+  ### 🧪 MLOps & DevOps
+  - Docker 🐳, DVC, MLflow, GitHub Actions
+  - Prometheus, Grafana
+
+  ### 📊 BI & Dashboarding
+  - Power BI, Streamlit
+
+  ### 🌐 Web & APIs
+  - Flask, FastAPI
+
+  ### 🧰 Dev Tools
+  - Git, VS Code, Jupyter, Conda
+
+      </td>
+      <td valign="top">
+        <img src="https://media.giphy.com/media/2t9sDPrlvFpdK/giphy.gif" width="300" alt="Deep Learning Animation" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -38,18 +62,19 @@
 
 ---
 
-## 🔭 What I'm Currently Exploring
+## 🔭 Currently Exploring
 
-- 🌐 Building scalable ML APIs with **FastAPI** and **Docker**
-- 📦 Organizing ML workflows with **DVC** and **MLflow**
-- 🤖 Training and experimenting with **LLMs and Generative AI**
-- 💻 Automating ML deployment pipelines using **CI/CD**
+- 🧠 Training and fine-tuning **LLMs**
+- 🌐 Building scalable ML APIs with **FastAPI** + **Docker**
+- 🔄 Full-cycle ML workflow using **MLOps stack**
+- 📊 Data storytelling with **Power BI**
 
 ---
 
 ## ✨ Fun Fact
 
-> I don’t just run models—I **ship** them 🐳💥
+> I don’t just train models — I **deploy** them.  
+> Turning data into decisions, one container at a time.
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" />
@@ -61,4 +86,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tanush123&label=Profile%20views&color=brightgreen&style=flat" alt="tanush123" />
 </p>
+
 
