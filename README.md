@@ -28,10 +28,7 @@
 | 🧰 Dev Tools          | Git, VS Code, Jupyter, Conda                                                          |
 
 
-<!-- Deep Learning GIF (right) -->
-<div align="right" style="flex: 1; min-width: 300px;">
-  <img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" alt="Deep Learning GIF" width="100%" />
-</div>
+
 
 </div>
 
