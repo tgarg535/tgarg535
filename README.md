@@ -2,7 +2,7 @@
 <h3 align="center">BTech Student | AI & Data Science | Pythonic Thinker | MLOps Explorer 🚀</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Tech coding animation" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Science Animation" width="300" />
 </p>
 
 ---
