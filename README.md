@@ -1,4 +1,4 @@
-# 👋 Tanush Kumar
+# 👋 Tanush Garg
 
 <div align="center">
   
@@ -92,18 +92,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanush123&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=tanush123&theme=tokyonight&hide_border=true" />
-  
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanush123&layout=compact&theme=tokyonight&hide_border=true" />
-  
-</div>
-
----
 
 ## 🌱 Currently Learning
 
@@ -117,15 +105,6 @@
 
 ---
 
-## 📈 Development Activity
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanush123&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff)
-  
-</div>
-
----
 
 ## 🤝 Let's Connect
 
