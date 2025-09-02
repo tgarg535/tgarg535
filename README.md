@@ -1,8 +1,6 @@
-# <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+my+name+is+Tanush+Garg)](https://git.io/typing-svg)
-  
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=700&lines=Hi%2C+my+name+is+Tanush+Garg" alt="Typing SVG" />
+</h1>
 
 <div align="center">
   
